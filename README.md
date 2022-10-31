@@ -30,6 +30,7 @@ This project represents a hard-way step-by-step [Rust] learning course from lang
 - [Rustdoc Book] is a guide to `rustdoc` documentation tool.
 - [Rust Cookbook] is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the [Rust] ecosystem.
 - [Rust Design Patterns] is an open source repository of [Rust] design patterns and idioms.
+- [Effective Rust] is a collection of guidelines that had been learned from real world experience of creating software in [Rust].
 - [Rust API Guidelines] is a set of recommendations on how to design and present APIs for [Rust].
 - [Rust FAQ] answers common question about [Rust].
 - [Rust Playground] allows to share and check runnable [Rust] code snippets online.
@@ -81,7 +82,7 @@ Do not hesitate to ask your lead with questions, however you won't receive a con
     - [ ] [3.5. Collections and iterators][Step 3.5] (1 day)
     - [ ] [3.6. Serialization and deserialization][Step 3.6] (1 day)
     - [ ] [3.7. Randomness and cryptography][Step 3.7] (1 day)
-    - [ ] [3.8. Logging][Step 3.8] (1 day)
+    - [ ] [3.8. Logging and tracing][Step 3.8] (1 day)
     - [ ] [3.9. Command-line arguments, environment variables and configs][Step 3.9] (1 day)
     - [ ] [3.10. Multithreading and parallelism][Step 3.10] (1 day)
     - [ ] [3.11. Async I/O, futures and actors][Step 3.11] (2 days)
@@ -128,6 +129,7 @@ Do not hesitate to ask your lead with questions, however you won't receive a con
 [Cheats.rs]: https://cheats.rs
 [CLion]: https://www.jetbrains.com/clion
 [Clippy]: https://github.com/rust-lang/rust-clippy
+[Effective Rust]: https://www.lurklurk.org/effective-rust
 [GitHub repository]: https://help.github.com/articles/github-glossary/#repository
 [IntelliJ IDEA]: https://www.jetbrains.com/idea
 [IntelliJ Rust]: https://intellij-rust.github.io

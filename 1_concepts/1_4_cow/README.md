@@ -29,8 +29,9 @@ fn describe(error: &Error) -> Cow<'static, str> {
 ```
 
 For better understanding [`Cow`] purpose, design, limitations and use cases read through:
-- [Pascal Hertleif: The Secret Life of Cows][1]
 - [Official `Cow` docs][`Cow`]
+- [Pascal Hertleif: The Secret Life of Cows][1]
+- [Konstantin Grechishchev: 6 things you can do with the Cow 🐄 in Rust 🦀][2]
 
 
 
@@ -47,8 +48,8 @@ If neither `APP_CONF` env var nor `--conf` command line argument is specified, t
 
 
 
-
 [`Cow`]: https://doc.rust-lang.org/std/borrow/enum.Cow.html
 [Rust]: https://www.rust-lang.org
 
 [1]: https://deterministic.space/secret-life-of-cows.html
+[2]: https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55
